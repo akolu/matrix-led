@@ -1,0 +1,4 @@
+matrix-io-proto==0.0.10
+protobuf==3.4.0
+pyzmq==16.0.2
+six==1.11.0
